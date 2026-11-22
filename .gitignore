@@ -1,0 +1,4 @@
+build/
+dist/Finpulse Data/
+dist/debug-input.*
+*.fpbackup

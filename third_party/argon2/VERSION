@@ -1,0 +1,4 @@
+Argon2 reference implementation, tag 20190702
+Source: https://github.com/P-H-C/phc-winner-argon2/archive/refs/tags/20190702.tar.gz
+Files: src/{argon2,core,encoding,ref,thread}.c + blake2, include/argon2.h
+License: CC0 1.0 or Apache 2.0
